@@ -1,0 +1,492 @@
+Part	2015-05-07-22-36-26	CalendarUnit.java	opened
+Part	2015-05-07-22-36-26	CalendarUnit.java	broughtToTop
+Part	2015-05-07-22-36-26	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-36-26	CalendarUnit.java	15
+Part	2015-05-07-22-36-26	CalendarUnit.java	activated
+CaretPosition	2015-05-07-22-36-27	CalendarUnit.java	15
+CaretPosition	2015-05-07-22-36-28	CalendarUnit.java	11
+Part	2015-05-07-22-36-30	CalendarUnit.java	deactivated
+Part	2015-05-07-22-36-30	Project Explorer	activated
+Part	2015-05-07-22-36-31	Year.java	opened
+Part	2015-05-07-22-36-31	Year.java	broughtToTop
+Part	2015-05-07-22-36-31	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-36-31	Year.java	1
+Part	2015-05-07-22-36-31	Year.java	activated
+CaretPosition	2015-05-07-22-36-31	Year.java	1
+Part	2015-05-07-22-36-32	Year.java	deactivated
+Part	2015-05-07-22-36-32	Project Explorer	activated
+Part	2015-05-07-22-36-32	Nextday.java	opened
+Part	2015-05-07-22-36-32	Nextday.java	broughtToTop
+Part	2015-05-07-22-36-32	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-36-32	Nextday.java	1
+Part	2015-05-07-22-36-32	Nextday.java	activated
+CaretPosition	2015-05-07-22-36-32	Nextday.java	1
+Part	2015-05-07-22-36-33	Nextday.java	deactivated
+Part	2015-05-07-22-36-33	Project Explorer	activated
+Part	2015-05-07-22-36-33	Month.java	opened
+Part	2015-05-07-22-36-33	Month.java	broughtToTop
+Part	2015-05-07-22-36-33	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-36-33	Month.java	1
+Part	2015-05-07-22-36-33	Month.java	activated
+CaretPosition	2015-05-07-22-36-34	Month.java	1
+CaretPosition	2015-05-07-22-36-36	Month.java	11
+Part	2015-05-07-22-36-38	Month.java	deactivated
+Part	2015-05-07-22-36-38	Project Explorer	activated
+Part	2015-05-07-22-36-40	TestNextDay.java	opened
+Part	2015-05-07-22-36-40	TestNextDay.java	broughtToTop
+Part	2015-05-07-22-36-40	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-36-40	TestNextDay.java	1
+Part	2015-05-07-22-36-40	TestNextDay.java	activated
+Part	2015-05-07-22-36-46	TestNextDay.java	deactivated
+Part	2015-05-07-22-36-46	Project Explorer	activated
+Part	2015-05-07-22-36-57	JUnit	opened
+Part	2015-05-07-22-36-57	JUnit (TestNextDay)	broughtToTop
+Part	2015-05-07-22-36-57	Project Explorer	deactivated
+Part	2015-05-07-22-36-57	JUnit (TestNextDay)	activated
+Part	2015-05-07-22-36-57	Console (No consoles to display at this time.)	opened
+Part	2015-05-07-22-37-00	JUnit (Finished after 0.015 seconds)	deactivated
+CaretPosition	2015-05-07-22-37-00	TestNextDay.java	1
+Part	2015-05-07-22-37-01	TestNextDay.java	activated
+CaretPosition	2015-05-07-22-37-01	TestNextDay.java	26
+CaretPosition	2015-05-07-22-37-03	TestNextDay.java	26
+Part	2015-05-07-22-37-29	TestNextDay.java	deactivated
+Part	2015-05-07-22-37-29	Project Explorer	activated
+Part	2015-05-07-22-37-29	Date.java	broughtToTop
+Part	2015-05-07-22-37-29	Project Explorer	deactivated
+Part	2015-05-07-22-37-29	Date.java	activated
+Part	2015-05-07-22-37-31	Date.java	deactivated
+Part	2015-05-07-22-37-31	Project Explorer	activated
+Part	2015-05-07-22-37-32	Project Explorer	deactivated
+Part	2015-05-07-22-37-32	Date.java	activated
+Part	2015-05-07-22-37-33	Date.java	deactivated
+CaretPosition	2015-05-07-22-37-33	TestNextDay.java	26
+Part	2015-05-07-22-37-33	TestNextDay.java	activated
+Part	2015-05-07-22-37-33	TestNextDay.java	broughtToTop
+Part	2015-05-07-22-37-33	Date.java	closed
+Part	2015-05-07-22-37-33	SundySearchTest.java	opened
+Part	2015-05-07-22-37-33	SundySearchTest.java	broughtToTop
+Part	2015-05-07-22-37-33	TestNextDay.java	deactivated
+Part	2015-05-07-22-37-33	SundySearchTest.java	activated
+Part	2015-05-07-22-37-34	SundySearchTest.java	deactivated
+CaretPosition	2015-05-07-22-37-34	TestNextDay.java	26
+Part	2015-05-07-22-37-34	TestNextDay.java	activated
+Part	2015-05-07-22-37-34	TestNextDay.java	broughtToTop
+Part	2015-05-07-22-37-34	SundySearchTest.java	closed
+Part	2015-05-07-22-37-35	Overflow.java	opened
+Part	2015-05-07-22-37-35	Overflow.java	broughtToTop
+Part	2015-05-07-22-37-35	TestNextDay.java	deactivated
+Part	2015-05-07-22-37-35	Overflow.java	activated
+Part	2015-05-07-22-37-36	Nextday.java	closed
+Part	2015-05-07-22-37-36	Overflow.java	deactivated
+Part	2015-05-07-22-37-36	Year.java	broughtToTop
+CaretPosition	2015-05-07-22-37-36	Year.java	1
+Part	2015-05-07-22-37-36	Year.java	activated
+Part	2015-05-07-22-37-37	DateTest.java	opened
+Part	2015-05-07-22-37-37	DateTest.java	broughtToTop
+Part	2015-05-07-22-37-37	Year.java	deactivated
+CaretPosition	2015-05-07-22-37-37	DateTest.java	1
+Part	2015-05-07-22-37-37	DateTest.java	activated
+CaretPosition	2015-05-07-22-37-37	DateTest.java	1
+Part	2015-05-07-22-37-38	DateTest.java	deactivated
+CaretPosition	2015-05-07-22-37-38	Year.java	1
+Part	2015-05-07-22-37-38	Year.java	activated
+Part	2015-05-07-22-37-38	Year.java	broughtToTop
+Part	2015-05-07-22-37-38	DateTest.java	closed
+Part	2015-05-07-22-37-39	Overflow.java	closed
+Part	2015-05-07-22-37-39	BinaryHeap.java	opened
+Part	2015-05-07-22-37-39	BinaryHeap.java	broughtToTop
+Part	2015-05-07-22-37-39	Year.java	deactivated
+Part	2015-05-07-22-37-39	BinaryHeap.java	activated
+Part	2015-05-07-22-37-40	CalendarUnit.java	closed
+Part	2015-05-07-22-37-41	BinaryHeap.java	deactivated
+CaretPosition	2015-05-07-22-37-41	Year.java	1
+Part	2015-05-07-22-37-41	Year.java	activated
+Part	2015-05-07-22-37-41	Year.java	broughtToTop
+Part	2015-05-07-22-37-41	BinaryHeap.java	closed
+Part	2015-05-07-22-37-44	TestNextDay.java	closed
+Part	2015-05-07-22-37-45	Year.java	deactivated
+CaretPosition	2015-05-07-22-37-45	Month.java	11
+Part	2015-05-07-22-37-45	Month.java	activated
+Part	2015-05-07-22-37-45	Month.java	broughtToTop
+Part	2015-05-07-22-37-45	Year.java	closed
+Part	2015-05-07-22-37-47	Month.java	deactivated
+Part	2015-05-07-22-37-47	Month.java	closed
+Part	2015-05-07-22-37-48	Project Explorer	activated
+Part	2015-05-07-22-37-50	Day.java	opened
+Part	2015-05-07-22-37-50	Day.java	broughtToTop
+Part	2015-05-07-22-37-50	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-37-50	Day.java	1
+Part	2015-05-07-22-37-50	Day.java	activated
+Part	2015-05-07-22-37-51	Day.java	deactivated
+Part	2015-05-07-22-37-51	Project Explorer	activated
+Part	2015-05-07-22-37-51	Date.java	opened
+Part	2015-05-07-22-37-51	Date.java	broughtToTop
+Part	2015-05-07-22-37-52	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-37-52	Date.java	1
+Part	2015-05-07-22-37-52	Date.java	activated
+Part	2015-05-07-22-37-52	Date.java	deactivated
+Part	2015-05-07-22-37-52	Project Explorer	activated
+Part	2015-05-07-22-37-53	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-37-53	Date.java	1
+Part	2015-05-07-22-37-53	Date.java	activated
+CaretPosition	2015-05-07-22-37-53	Date.java	9
+CaretPosition	2015-05-07-22-37-55	Date.java	22
+CaretPosition	2015-05-07-22-37-57	Date.java	51
+CaretPosition	2015-05-07-22-37-58	Date.java	50
+CaretPosition	2015-05-07-22-38-03	Date.java	8
+CaretPosition	2015-05-07-22-38-06	Date.java	15
+Part	2015-05-07-22-38-07	Date.java	deactivated
+Part	2015-05-07-22-38-07	Project Explorer	activated
+Part	2015-05-07-22-38-08	Day.java	broughtToTop
+Part	2015-05-07-22-38-08	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-38-08	Day.java	1
+Part	2015-05-07-22-38-08	Day.java	activated
+Part	2015-05-07-22-38-10	Day.java	deactivated
+Part	2015-05-07-22-38-10	Project Explorer	activated
+Part	2015-05-07-22-38-10	TestNextDay.java	opened
+Part	2015-05-07-22-38-10	TestNextDay.java	broughtToTop
+Part	2015-05-07-22-38-10	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-38-10	TestNextDay.java	1
+Part	2015-05-07-22-38-10	TestNextDay.java	activated
+CaretPosition	2015-05-07-22-38-15	TestNextDay.java	24
+CaretPosition	2015-05-07-22-38-18	TestNextDay.java	26
+CaretPosition	2015-05-07-22-38-19	TestNextDay.java	25
+CaretPosition	2015-05-07-22-38-20	TestNextDay.java	25
+Part	2015-05-07-22-38-22	TestNextDay.java	deactivated
+Part	2015-05-07-22-38-22	Project Explorer	activated
+Part	2015-05-07-22-38-22	Nextday.java	opened
+Part	2015-05-07-22-38-22	Nextday.java	broughtToTop
+Part	2015-05-07-22-38-22	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-38-22	Nextday.java	1
+Part	2015-05-07-22-38-22	Nextday.java	activated
+CaretPosition	2015-05-07-22-38-26	Nextday.java	4
+CaretPosition	2015-05-07-22-38-27	Nextday.java	4
+CaretPosition	2015-05-07-22-38-27	Nextday.java	5
+CaretPosition	2015-05-07-22-38-28	Nextday.java	6
+CaretPosition	2015-05-07-22-38-31	Nextday.java	4
+CaretPosition	2015-05-07-22-38-32	Nextday.java	7
+CaretPosition	2015-05-07-22-38-32	Nextday.java	5
+Part	2015-05-07-22-38-34	Nextday.java	deactivated
+Part	2015-05-07-22-38-34	Project Explorer	activated
+Part	2015-05-07-22-38-34	Date.java	broughtToTop
+Part	2015-05-07-22-38-34	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-38-34	Date.java	15
+Part	2015-05-07-22-38-34	Date.java	activated
+CaretPosition	2015-05-07-22-38-36	Date.java	19
+CaretPosition	2015-05-07-22-38-37	Date.java	16
+Part	2015-05-07-22-38-55	Date.java	deactivated
+Part	2015-05-07-22-38-55	Project Explorer	activated
+Part	2015-05-07-22-38-55	Day.java	broughtToTop
+Part	2015-05-07-22-38-55	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-38-55	Day.java	1
+Part	2015-05-07-22-38-55	Day.java	activated
+CaretPosition	2015-05-07-22-38-57	Day.java	16
+CaretPosition	2015-05-07-22-38-58	Day.java	10
+CaretPosition	2015-05-07-22-38-58	Day.java	12
+Part	2015-05-07-22-39-09	Day.java	deactivated
+Part	2015-05-07-22-39-09	Project Explorer	activated
+Part	2015-05-07-22-39-09	Month.java	opened
+Part	2015-05-07-22-39-09	Month.java	broughtToTop
+Part	2015-05-07-22-39-09	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-39-09	Month.java	1
+Part	2015-05-07-22-39-09	Month.java	activated
+CaretPosition	2015-05-07-22-39-11	Month.java	14
+Part	2015-05-07-22-39-28	Month.java	deactivated
+Part	2015-05-07-22-39-28	Project Explorer	activated
+Part	2015-05-07-22-39-30	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-39-30	Month.java	14
+Part	2015-05-07-22-39-30	Month.java	activated
+CaretPosition	2015-05-07-22-39-31	Month.java	23
+breakpoint	2015-05-07-22-39-32	add	null	23	=Nextday/src<{Month.java[Month	Month	
+CaretPosition	2015-05-07-22-39-33	Month.java	23
+breakpoint	2015-05-07-22-39-34	add	null	25	=Nextday/src<{Month.java[Month	Month	
+Part	2015-05-07-22-39-36	Month.java	deactivated
+Part	2015-05-07-22-39-36	Project Explorer	activated
+Part	2015-05-07-22-39-42	Project Explorer	deactivated
+Part	2015-05-07-22-39-42	JUnit (TestNextDay)	activated
+Part	2015-05-07-22-39-44	JUnit (Finished after 0 seconds)	deactivated
+CaretPosition	2015-05-07-22-39-44	Month.java	23
+Part	2015-05-07-22-39-44	Month.java	activated
+CaretPosition	2015-05-07-22-39-45	Month.java	24
+Part	2015-05-07-22-39-46	Month.java	deactivated
+Part	2015-05-07-22-39-46	Project Explorer	activated
+Part	2015-05-07-22-39-50	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-39-50	Month.java	24
+Part	2015-05-07-22-39-50	Month.java	activated
+CaretPosition	2015-05-07-22-39-50	Month.java	24
+CaretPosition	2015-05-07-22-39-53	Month.java	23
+breakpoint	2015-05-07-22-39-54	remove	Line breakpoint:Month [line: 23] - getMonthSize()	23	=Nextday/src<{Month.java[Month	Month	
+breakpoint	2015-05-07-22-39-55	remove	Line breakpoint:Month [line: 25] - getMonthSize()	25	=Nextday/src<{Month.java[Month	Month	
+CaretPosition	2015-05-07-22-39-57	Month.java	22
+CaretPosition	2015-05-07-22-40-00	Month.java	21
+CaretPosition	2015-05-07-22-40-03	Month.java	22
+Part	2015-05-07-22-40-05	Month.java	deactivated
+Part	2015-05-07-22-40-05	Project Explorer	activated
+Part	2015-05-07-22-40-06	Year.java	opened
+Part	2015-05-07-22-40-06	Year.java	broughtToTop
+Part	2015-05-07-22-40-06	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-40-06	Year.java	1
+Part	2015-05-07-22-40-06	Year.java	activated
+CaretPosition	2015-05-07-22-40-08	Year.java	14
+CaretPosition	2015-05-07-22-40-10	Year.java	27
+CaretPosition	2015-05-07-22-40-10	Year.java	27
+CaretPosition	2015-05-07-22-40-11	Year.java	26
+CaretPosition	2015-05-07-22-40-13	Year.java	27
+CaretPosition	2015-05-07-22-40-15	Year.java	26
+CaretPosition	2015-05-07-22-40-15	Year.java	27
+CaretPosition	2015-05-07-22-40-18	Year.java	26
+CaretPosition	2015-05-07-22-40-19	Year.java	26
+CaretPosition	2015-05-07-22-40-22	Year.java	26
+CaretPosition	2015-05-07-22-40-23	Year.java	26
+CaretPosition	2015-05-07-22-40-26	Year.java	26
+CaretPosition	2015-05-07-22-40-27	Year.java	26
+CaretPosition	2015-05-07-22-40-28	Year.java	26
+CaretPosition	2015-05-07-22-40-32	Year.java	28
+CaretPosition	2015-05-07-22-40-38	Year.java	29
+CaretPosition	2015-05-07-22-40-41	Year.java	29
+CaretPosition	2015-05-07-22-40-42	Year.java	29
+CaretPosition	2015-05-07-22-40-42	Year.java	29
+CaretPosition	2015-05-07-22-40-43	Year.java	29
+CaretPosition	2015-05-07-22-40-45	Year.java	29
+CaretPosition	2015-05-07-22-40-51	Year.java	29
+CaretPosition	2015-05-07-22-40-52	Year.java	29
+CaretPosition	2015-05-07-22-40-55	Year.java	29
+CaretPosition	2015-05-07-22-40-59	Year.java	26
+CaretPosition	2015-05-07-22-41-00	Year.java	26
+CaretPosition	2015-05-07-22-41-03	Year.java	26
+CaretPosition	2015-05-07-22-41-06	Year.java	26
+CaretPosition	2015-05-07-22-41-13	Year.java	25
+CaretPosition	2015-05-07-22-41-13	Year.java	26
+Part	2015-05-07-22-41-18	Year.java	deactivated
+Part	2015-05-07-22-41-18	Project Explorer	activated
+Part	2015-05-07-22-41-18	TestNextDay.java	broughtToTop
+Part	2015-05-07-22-41-18	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-41-18	TestNextDay.java	25
+Part	2015-05-07-22-41-18	TestNextDay.java	activated
+CaretPosition	2015-05-07-22-41-20	TestNextDay.java	23
+CaretPosition	2015-05-07-22-41-21	TestNextDay.java	17
+CaretPosition	2015-05-07-22-41-25	TestNextDay.java	24
+CaretPosition	2015-05-07-22-41-27	TestNextDay.java	25
+CaretPosition	2015-05-07-22-41-28	TestNextDay.java	25
+CaretPosition	2015-05-07-22-41-29	TestNextDay.java	25
+CaretPosition	2015-05-07-22-41-29	TestNextDay.java	25
+CaretPosition	2015-05-07-22-41-30	TestNextDay.java	25
+CaretPosition	2015-05-07-22-41-31	TestNextDay.java	25
+CaretPosition	2015-05-07-22-41-33	TestNextDay.java	25
+CaretPosition	2015-05-07-22-41-35	TestNextDay.java	25
+CaretPosition	2015-05-07-22-41-36	TestNextDay.java	18
+CaretPosition	2015-05-07-22-41-38	TestNextDay.java	25
+CaretPosition	2015-05-07-22-41-40	TestNextDay.java	25
+CaretPosition	2015-05-07-22-41-42	TestNextDay.java	25
+CaretPosition	2015-05-07-22-41-43	TestNextDay.java	25
+CaretPosition	2015-05-07-22-41-44	TestNextDay.java	25
+CaretPosition	2015-05-07-22-41-45	TestNextDay.java	26
+CaretPosition	2015-05-07-22-41-51	TestNextDay.java	26
+CaretPosition	2015-05-07-22-41-52	TestNextDay.java	27
+CaretPosition	2015-05-07-22-41-53	TestNextDay.java	25
+CaretPosition	2015-05-07-22-41-56	TestNextDay.java	26
+Part	2015-05-07-22-41-58	TestNextDay.java	deactivated
+Part	2015-05-07-22-41-58	Project Explorer	activated
+Part	2015-05-07-22-42-02	Project Explorer	deactivated
+Part	2015-05-07-22-42-02	JUnit (TestNextDay)	activated
+Part	2015-05-07-22-42-05	JUnit (Finished after 0.015 seconds)	deactivated
+Part	2015-05-07-22-42-05	Console (<terminated> TestNextDay [JUnit] C:\Program Files (x86)\Java\jre7\bin\javaw.exe (2015年5月7日 下午10:42:02))	broughtToTop
+CaretPosition	2015-05-07-22-42-05	Console (<terminated> TestNextDay [JUnit] C:\Program Files (x86)\Java\jre7\bin\javaw.exe (2015年5月7日 下午10:42:02))	1
+Part	2015-05-07-22-42-05	Console (<terminated> TestNextDay [JUnit] C:\Program Files (x86)\Java\jre7\bin\javaw.exe (2015年5月7日 下午10:42:02))	activated
+Part	2015-05-07-22-42-07	Console (<terminated> TestNextDay [JUnit] C:\Program Files (x86)\Java\jre7\bin\javaw.exe (2015年5月7日 下午10:42:02))	deactivated
+Part	2015-05-07-22-42-07	JUnit (Finished after 0.015 seconds)	broughtToTop
+Part	2015-05-07-22-42-07	JUnit (Finished after 0.015 seconds)	activated
+Part	2015-05-07-22-42-09	JUnit (Finished after 0.015 seconds)	deactivated
+Part	2015-05-07-22-42-09	Console (<terminated> TestNextDay [JUnit] C:\Program Files (x86)\Java\jre7\bin\javaw.exe (2015年5月7日 下午10:42:02))	broughtToTop
+CaretPosition	2015-05-07-22-42-09	Console (<terminated> TestNextDay [JUnit] C:\Program Files (x86)\Java\jre7\bin\javaw.exe (2015年5月7日 下午10:42:02))	1
+Part	2015-05-07-22-42-09	Console (<terminated> TestNextDay [JUnit] C:\Program Files (x86)\Java\jre7\bin\javaw.exe (2015年5月7日 下午10:42:02))	activated
+Part	2015-05-07-22-42-09	Console (<terminated> TestNextDay [JUnit] C:\Program Files (x86)\Java\jre7\bin\javaw.exe (2015年5月7日 下午10:42:02))	deactivated
+CaretPosition	2015-05-07-22-42-09	Console (<terminated> TestNextDay [JUnit] C:\Program Files (x86)\Java\jre7\bin\javaw.exe (2015年5月7日 下午10:42:02))	1
+Part	2015-05-07-22-42-09	Console (<terminated> TestNextDay [JUnit] C:\Program Files (x86)\Java\jre7\bin\javaw.exe (2015年5月7日 下午10:42:02))	activated
+Part	2015-05-07-22-42-10	Console (<terminated> TestNextDay [JUnit] C:\Program Files (x86)\Java\jre7\bin\javaw.exe (2015年5月7日 下午10:42:02))	deactivated
+CaretPosition	2015-05-07-22-42-10	TestNextDay.java	26
+Part	2015-05-07-22-42-10	TestNextDay.java	activated
+CaretPosition	2015-05-07-22-42-11	TestNextDay.java	26
+CaretPosition	2015-05-07-22-42-13	TestNextDay.java	28
+CaretPosition	2015-05-07-22-42-15	TestNextDay.java	26
+CaretPosition	2015-05-07-22-42-17	TestNextDay.java	29
+CaretPosition	2015-05-07-22-42-17	TestNextDay.java	28
+CaretPosition	2015-05-07-22-42-19	TestNextDay.java	28
+CaretPosition	2015-05-07-22-42-20	TestNextDay.java	28
+Part	2015-05-07-22-42-22	TestNextDay.java	deactivated
+Part	2015-05-07-22-42-22	Project Explorer	activated
+Part	2015-05-07-22-42-26	JUnit (TestNextDay)	broughtToTop
+Part	2015-05-07-22-42-26	Project Explorer	deactivated
+Part	2015-05-07-22-42-26	JUnit (TestNextDay)	activated
+Part	2015-05-07-22-42-26	JUnit (Finished after 0.016 seconds)	deactivated
+Part	2015-05-07-22-42-26	Console (<terminated> TestNextDay [JUnit] C:\Program Files (x86)\Java\jre7\bin\javaw.exe (2015年5月7日 下午10:42:26))	broughtToTop
+CaretPosition	2015-05-07-22-42-26	Console (<terminated> TestNextDay [JUnit] C:\Program Files (x86)\Java\jre7\bin\javaw.exe (2015年5月7日 下午10:42:26))	1
+Part	2015-05-07-22-42-26	Console (<terminated> TestNextDay [JUnit] C:\Program Files (x86)\Java\jre7\bin\javaw.exe (2015年5月7日 下午10:42:26))	activated
+Part	2015-05-07-22-42-28	Console (<terminated> TestNextDay [JUnit] C:\Program Files (x86)\Java\jre7\bin\javaw.exe (2015年5月7日 下午10:42:26))	deactivated
+CaretPosition	2015-05-07-22-42-28	TestNextDay.java	28
+Part	2015-05-07-22-42-28	TestNextDay.java	activated
+CaretPosition	2015-05-07-22-42-28	TestNextDay.java	24
+CaretPosition	2015-05-07-22-42-29	TestNextDay.java	25
+CaretPosition	2015-05-07-22-42-31	TestNextDay.java	24
+CaretPosition	2015-05-07-22-42-32	TestNextDay.java	24
+Part	2015-05-07-22-42-33	TestNextDay.java	deactivated
+Part	2015-05-07-22-42-33	Project Explorer	activated
+Part	2015-05-07-22-42-34	Year.java	broughtToTop
+Part	2015-05-07-22-42-34	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-42-34	Year.java	26
+Part	2015-05-07-22-42-34	Year.java	activated
+CaretPosition	2015-05-07-22-42-36	Year.java	25
+CaretPosition	2015-05-07-22-42-37	Year.java	26
+CaretPosition	2015-05-07-22-42-38	Year.java	26
+CaretPosition	2015-05-07-22-42-40	Year.java	26
+CaretPosition	2015-05-07-22-42-41	Year.java	26
+CaretPosition	2015-05-07-22-42-43	Year.java	26
+CaretPosition	2015-05-07-22-42-45	Year.java	26
+CaretPosition	2015-05-07-22-42-49	Year.java	26
+CaretPosition	2015-05-07-22-42-52	Year.java	26
+CaretPosition	2015-05-07-22-42-53	Year.java	26
+CaretPosition	2015-05-07-22-42-56	Year.java	26
+CaretPosition	2015-05-07-22-43-00	Year.java	26
+FileChange	2015-05-07-22-43-01	C:\mooctest\projects\88\2874\Nextday\src\Year.java	[ChangeDelta, position: 25, lines: [				&& (((currentPos % 4 == 0) && (currentPos % 100 != 0)) && (currentPos % 400 == 0)))] to [				&& (((currentPos % 4 == 0) && (currentPos % 100 != 0)) || (currentPos % 400 == 0)))]]	
+CaretPosition	2015-05-07-22-43-01	Year.java	26
+Part	2015-05-07-22-43-04	Year.java	deactivated
+Part	2015-05-07-22-43-04	Project Explorer	activated
+Part	2015-05-07-22-43-07	JUnit (TestNextDay)	broughtToTop
+Part	2015-05-07-22-43-07	Project Explorer	deactivated
+Part	2015-05-07-22-43-07	JUnit (TestNextDay)	activated
+Part	2015-05-07-22-43-12	JUnit (Finished after 0.015 seconds)	deactivated
+CaretPosition	2015-05-07-22-43-12	Year.java	26
+Part	2015-05-07-22-43-12	Year.java	activated
+CaretPosition	2015-05-07-22-43-13	Year.java	16
+Part	2015-05-07-22-43-18	Year.java	deactivated
+Part	2015-05-07-22-43-18	MoocTest	broughtToTop
+Part	2015-05-07-22-43-18	MoocTest	activated
+Part	2015-05-07-22-43-18	MoocTest	activated
+Part	2015-05-07-22-43-27	MoocTest	deactivated
+CaretPosition	2015-05-07-22-43-27	Year.java	16
+Part	2015-05-07-22-43-27	Year.java	activated
+CaretPosition	2015-05-07-22-43-27	Year.java	30
+Part	2015-05-07-22-43-29	Year.java	deactivated
+Part	2015-05-07-22-43-29	Project Explorer	activated
+Part	2015-05-07-22-43-48	TestTriangle.java	opened
+Part	2015-05-07-22-43-48	TestTriangle.java	broughtToTop
+Part	2015-05-07-22-43-48	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-43-48	TestTriangle.java	1
+Part	2015-05-07-22-43-48	TestTriangle.java	activated
+Part	2015-05-07-22-43-49	TestTriangle.java	deactivated
+Part	2015-05-07-22-43-49	Project Explorer	activated
+Part	2015-05-07-22-43-58	JUnit (TestTriangle)	broughtToTop
+Part	2015-05-07-22-43-58	Project Explorer	deactivated
+Part	2015-05-07-22-43-58	JUnit (TestTriangle)	activated
+Part	2015-05-07-22-44-01	JUnit (Finished after 0.094 seconds)	deactivated
+CaretPosition	2015-05-07-22-44-01	TestTriangle.java	1
+Part	2015-05-07-22-44-01	TestTriangle.java	activated
+CaretPosition	2015-05-07-22-44-02	TestTriangle.java	53
+CaretPosition	2015-05-07-22-44-04	TestTriangle.java	53
+CaretPosition	2015-05-07-22-44-04	TestTriangle.java	53
+CaretPosition	2015-05-07-22-44-05	TestTriangle.java	52
+CaretPosition	2015-05-07-22-44-06	TestTriangle.java	52
+Part	2015-05-07-22-44-22	TestTriangle.java	deactivated
+Part	2015-05-07-22-44-22	Project Explorer	activated
+Part	2015-05-07-22-44-22	Triangle.java	opened
+Part	2015-05-07-22-44-22	Triangle.java	broughtToTop
+Part	2015-05-07-22-44-22	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-44-22	Triangle.java	1
+Part	2015-05-07-22-44-22	Triangle.java	activated
+CaretPosition	2015-05-07-22-44-24	Triangle.java	21
+CaretPosition	2015-05-07-22-44-27	Triangle.java	34
+CaretPosition	2015-05-07-22-44-33	Triangle.java	36
+CaretPosition	2015-05-07-22-44-34	Triangle.java	36
+CaretPosition	2015-05-07-22-44-37	Triangle.java	34
+CaretPosition	2015-05-07-22-44-38	Triangle.java	36
+CaretPosition	2015-05-07-22-44-38	Triangle.java	34
+CaretPosition	2015-05-07-22-44-40	Triangle.java	37
+CaretPosition	2015-05-07-22-44-42	Triangle.java	37
+CaretPosition	2015-05-07-22-44-59	Triangle.java	34
+CaretPosition	2015-05-07-22-45-00	Triangle.java	33
+CaretPosition	2015-05-07-22-45-35	Triangle.java	69
+CaretPosition	2015-05-07-22-45-41	Triangle.java	67
+CaretPosition	2015-05-07-22-45-44	Triangle.java	53
+CaretPosition	2015-05-07-22-45-45	Triangle.java	53
+CaretPosition	2015-05-07-22-45-47	Triangle.java	68
+CaretPosition	2015-05-07-22-45-48	Triangle.java	52
+CaretPosition	2015-05-07-22-45-49	Triangle.java	51
+Part	2015-05-07-22-45-53	Triangle.java	deactivated
+Part	2015-05-07-22-45-53	Project Explorer	activated
+Part	2015-05-07-22-45-56	Project Explorer	deactivated
+CaretPosition	2015-05-07-22-45-56	Triangle.java	51
+Part	2015-05-07-22-45-56	Triangle.java	activated
+CaretPosition	2015-05-07-22-45-57	Triangle.java	70
+CaretPosition	2015-05-07-22-45-59	Triangle.java	70
+CaretPosition	2015-05-07-22-46-03	Triangle.java	70
+CaretPosition	2015-05-07-22-46-04	Triangle.java	70
+CaretPosition	2015-05-07-22-46-05	Triangle.java	71
+CaretPosition	2015-05-07-22-46-07	Triangle.java	70
+CaretPosition	2015-05-07-22-46-08	Triangle.java	70
+CaretPosition	2015-05-07-22-46-10	Triangle.java	70
+CaretPosition	2015-05-07-22-46-13	Triangle.java	70
+CaretPosition	2015-05-07-22-46-14	Triangle.java	70
+FileChange	2015-05-07-22-46-16	C:\mooctest\projects\88\2874\Triangle\src\Triangle.java	[ChangeDelta, position: 69, lines: [] to [		System.out.println(strType);]]	
+CaretPosition	2015-05-07-22-46-17	Triangle.java	69
+Part	2015-05-07-22-46-19	Triangle.java	deactivated
+Part	2015-05-07-22-46-19	Project Explorer	activated
+Part	2015-05-07-22-46-22	Project Explorer	deactivated
+Part	2015-05-07-22-46-22	JUnit (TestTriangle)	activated
+Part	2015-05-07-22-46-22	JUnit (Finished after 0.016 seconds)	deactivated
+Part	2015-05-07-22-46-22	Console (<terminated> TestTriangle [JUnit] C:\Program Files (x86)\Java\jre7\bin\javaw.exe (2015年5月7日 下午10:46:22))	broughtToTop
+CaretPosition	2015-05-07-22-46-23	Console (<terminated> TestTriangle [JUnit] C:\Program Files (x86)\Java\jre7\bin\javaw.exe (2015年5月7日 下午10:46:22))	1
+Part	2015-05-07-22-46-23	Console (<terminated> TestTriangle [JUnit] C:\Program Files (x86)\Java\jre7\bin\javaw.exe (2015年5月7日 下午10:46:22))	activated
+Part	2015-05-07-22-46-24	Console (<terminated> TestTriangle [JUnit] C:\Program Files (x86)\Java\jre7\bin\javaw.exe (2015年5月7日 下午10:46:22))	deactivated
+CaretPosition	2015-05-07-22-46-24	Triangle.java	69
+Part	2015-05-07-22-46-24	Triangle.java	activated
+CaretPosition	2015-05-07-22-46-25	Triangle.java	58
+CaretPosition	2015-05-07-22-46-26	Triangle.java	70
+FileChange	2015-05-07-22-46-27	C:\mooctest\projects\88\2874\Triangle\src\Triangle.java	[DeleteDelta, position: 69, lines: [		System.out.println(strType);]]	
+CaretPosition	2015-05-07-22-46-28	Triangle.java	70
+CaretPosition	2015-05-07-22-46-34	Triangle.java	37
+CaretPosition	2015-05-07-22-46-35	Triangle.java	38
+CaretPosition	2015-05-07-22-46-36	Triangle.java	37
+CaretPosition	2015-05-07-22-46-37	Triangle.java	37
+CaretPosition	2015-05-07-22-46-39	Triangle.java	36
+FileChange	2015-05-07-22-46-40	C:\mooctest\projects\88\2874\Triangle\src\Triangle.java	
+CaretPosition	2015-05-07-22-46-52	Triangle.java	27
+FileChange	2015-05-07-22-46-54	C:\mooctest\projects\88\2874\Triangle\src\Triangle.java	[ChangeDelta, position: 25, lines: [		boolean isTriangle = false;] to [		boolean isTriangle = true;]]	
+CaretPosition	2015-05-07-22-46-54	Triangle.java	26
+Part	2015-05-07-22-46-56	Triangle.java	deactivated
+Part	2015-05-07-22-46-56	Project Explorer	activated
+Part	2015-05-07-22-47-00	JUnit (TestTriangle)	broughtToTop
+Part	2015-05-07-22-47-00	Project Explorer	deactivated
+Part	2015-05-07-22-47-00	JUnit (TestTriangle)	activated
+Part	2015-05-07-22-47-02	JUnit (Finished after 0.016 seconds)	deactivated
+CaretPosition	2015-05-07-22-47-02	Triangle.java	26
+Part	2015-05-07-22-47-02	Triangle.java	activated
+CaretPosition	2015-05-07-22-47-03	Triangle.java	37
+CaretPosition	2015-05-07-22-47-04	Triangle.java	26
+CaretPosition	2015-05-07-22-47-05	Triangle.java	35
+FileChange	2015-05-07-22-47-06	C:\mooctest\projects\88\2874\Triangle\src\Triangle.java	[ChangeDelta, position: 25, lines: [		boolean isTriangle = true;] to [		boolean isTriangle = false;]]	
+CaretPosition	2015-05-07-22-47-08	Triangle.java	39
+CaretPosition	2015-05-07-22-47-10	Triangle.java	38
+CaretPosition	2015-05-07-22-47-13	Triangle.java	39
+CaretPosition	2015-05-07-22-47-14	Triangle.java	39
+CaretPosition	2015-05-07-22-47-17	Triangle.java	38
+CaretPosition	2015-05-07-22-47-18	Triangle.java	38
+FileChange	2015-05-07-22-47-19	C:\mooctest\projects\88\2874\Triangle\src\Triangle.java	
+CaretPosition	2015-05-07-22-47-26	Triangle.java	37
+FileChange	2015-05-07-22-47-28	C:\mooctest\projects\88\2874\Triangle\src\Triangle.java	[ChangeDelta, position: 36, lines: [				isTriangle = false;] to [				isTriangle = true;]]	
+CaretPosition	2015-05-07-22-47-29	Triangle.java	37
+Part	2015-05-07-22-47-29	Triangle.java	deactivated
+Part	2015-05-07-22-47-29	Project Explorer	activated
+Part	2015-05-07-22-47-33	Project Explorer	deactivated
+Part	2015-05-07-22-47-33	JUnit (TestTriangle)	activated
+Part	2015-05-07-22-47-36	JUnit (Finished after 0 seconds)	deactivated
+CaretPosition	2015-05-07-22-47-36	Triangle.java	37
+Part	2015-05-07-22-47-36	Triangle.java	activated
+CaretPosition	2015-05-07-22-47-36	Triangle.java	50
+Part	2015-05-07-22-47-53	Triangle.java	deactivated
+Part	2015-05-07-22-47-53	MoocTest	broughtToTop
+Part	2015-05-07-22-47-53	MoocTest	activated
+Part	2015-05-07-22-47-53	MoocTest	activated
+Part	2015-05-07-22-47-56	MoocTest	deactivated
+CaretPosition	2015-05-07-22-47-56	Triangle.java	50
+Part	2015-05-07-22-47-56	Triangle.java	activated
+CaretPosition	2015-05-07-22-47-57	Triangle.java	47
